@@ -40,6 +40,9 @@ A specialized Jetson version optimized with TensorRT is available for NVIDIA Jet
 
 Please note that this repository provides a rapid review of the software. The full source code, models, and datasets belong to Unifi Solution Company and are not included.
 
+## International Versions
+
+In addition to the specialized ANPR solution tailored for the United Arab Emirates, we offer customized versions of our software for various countries, including Canada, Malaysia, and more. Each version is meticulously designed to meet the unique requirements and regulations of the respective region. Contact us to learn more about our international ANPR solutions.
 
 ## Contributing
 
