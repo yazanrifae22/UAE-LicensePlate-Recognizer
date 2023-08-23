@@ -1,0 +1,8 @@
+argparse==1.4.0
+opencv-python==4.5.3.56
+numpy==1.21.2
+multiprocessing==2.6.4.1
+pyYAML==5.4.1
+pytz==2021.1
+requests==2.26.0
+ultralytics==0.4.9
